@@ -1,0 +1,9 @@
+com\amazonaws\lambda\mutants\service\SecuenceMutants.class
+com\amazonaws\lambda\mutants\dto\DnaDTO.class
+com\amazonaws\lambda\mutants\service\admiCRUD.class
+com\amazonaws\lambda\mutants\dto\AverageMutantsDTO.class
+com\amazonaws\lambda\mutants\dto\MutantDTO.class
+com\amazonaws\lambda\mutants\model\Direction.class
+com\amazonaws\lambda\mutants\model\Coordinate.class
+com\amazonaws\lambda\mutants\HttpRestHandler.class
+com\amazonaws\lambda\mutants\service\ConnectDB.class
